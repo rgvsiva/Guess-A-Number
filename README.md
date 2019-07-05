@@ -1,3 +1,5 @@
 # Guess-A-Number
 
-run 
+run 'task.py' to play the game
+
+best of luck
