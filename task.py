@@ -27,8 +27,10 @@ def guess(l,ch):
             print("*****************************************\n"
                   "****Yurekhaa...You won 1 crore laddus****\n"
                   '*****************************************')
+            print("Random Numbers List: ",l)
         else:
             print('*****you are out of chances---You lost the game*****')
+            print("Random Numbers List: ",l)
 
 ch=1
 guess(l,ch)
