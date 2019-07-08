@@ -19,8 +19,8 @@ def check(l,ask):
 #------------------------------------------------------------
 print('**********************Guess A Number*********************')
 print('***********************Instructions**********************')
-print('-------------Guess any number between 1 & 100------------\n'
-      '---we will give you 20 random nummbers between 1 & 100---\n'
+print('-------------Guess any number between 1 & 50------------\n'
+      '---we will give you 20 random nummbers between 1 & 50---\n'
       '-----we will display those 20 by the end of the game-----\n'
       '--------------------You have 5 chances-------------------\n'
       '----We will give you "Hints" according to your guess-----\n'
